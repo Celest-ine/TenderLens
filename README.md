@@ -76,7 +76,6 @@ TenderLens automates the first stage of tender analysis by extracting and organi
 
 ## Project Structure
 
-```text
 TenderLens/
 │
 ├── Backend/
@@ -91,7 +90,7 @@ TenderLens/
 - [x] Define product requirements
 - [x] Create repository
 - [x] Initial documentation
-- [ ] Backend setup
+- [x] Backend setup
 - [ ] Frontend setup
 - [ ] File upload
 - [ ] PDF text extraction
